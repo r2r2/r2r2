@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm a Python Developer
-</hr>
-<!-- 
-</br> -->
+<hr>
+
+</br>
 
 ## Technology stack
 
