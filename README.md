@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm a Python Developer
 <hr>
 
-</br>
 
 ## Technology stack
 
