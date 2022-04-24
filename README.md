@@ -13,7 +13,7 @@
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
 ![Sanic](https://img.shields.io/badge/-Sanic-%2300C7B7?style=flat-square&logo=Sanic)
 ![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
-![Tortoise ORM](https://img.shields.io/badge/-TortoiseORM-%ff69b4?style=flat-square&logo=Tortoise-ORM)
+![Tortoise ORM](https://img.shields.io/badge/-TortoiseORM-%green?style=flat-square&logo=Tortoise-ORM)
 
 **Databases**
 
