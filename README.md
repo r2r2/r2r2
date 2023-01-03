@@ -30,7 +30,7 @@
 **Tools**
 
 ![Docker](https://img.shields.io/badge/-Docker-181717?style=for-the-badge&logo=docker&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-181717?style=for-the-badge&logo=jetbrains)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-222222?style=for-the-badge&logo=jetbrains)
 ![Postman](https://img.shields.io/badge/Postman-181717?style=for-the-badge&logo=postman)
 
 ![Linux](https://img.shields.io/badge/Linux-181717?style=for-the-badge&logo=linux)
