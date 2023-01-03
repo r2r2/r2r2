@@ -16,6 +16,8 @@
 ![Celery](https://img.shields.io/badge/-Celery-181717?style=for-the-badge&logo=Celery)
 ![Swagger](https://img.shields.io/static/v1?style=for-the-badge&message=Swagger&color=181717&logo=Swagger&logoColor=85EA2D&label=)
 
+![Go](https://img.shields.io/static/v1?style=for-the-badge&message=Go&color=181717&logo=Go&logoColor=FFFFFF&label=)
+
 
 **Databases**
 
@@ -24,8 +26,8 @@
 
 **Front-end**
 
-![HTML5](https://img.shields.io/badge/-HTML5-181717?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-181717?style=for-the-badge&logo=css3)
+![HTML](https://img.shields.io/badge/HTML-181717?style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/CSS-181717?style=for-the-badge&logo=CSS3)
 
 **Tools**
 
@@ -39,27 +41,9 @@
 
 **Learning**
 
-![Go](https://img.shields.io/static/v1?style=for-the-badge&message=Go&color=181717&logo=Go&logoColor=FFFFFF&label=)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript)
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![r2r2 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r2r2&layout=compact&count_private=true&theme=gruvbox&hide=JavaScript,HTML,CSS&bg_color=00000000)
 ![r2r2 GitHub stats](https://github-readme-stats.vercel.app/api?username=r2r2&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide=issues,contribs&bg_color=00000000)
-
-
-
-<!--
-**r2r2/r2r2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
