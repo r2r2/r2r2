@@ -6,40 +6,40 @@
 
 **Back-end**
 
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python&bg_color=00000000)
-![FastAPI](https://img.shields.io/static/v1?style=for-the-badge&message=FastAPI&color=222222&logo=FastAPI&logoColor=FFFFFF&label=)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-222222?style=for-the-badge&logo=SQLAlchemy)
-![Sanic](https://img.shields.io/badge/Sanic-222222?style=for-the-badge&logo=Sanic)
-![Django](https://img.shields.io/badge/-Django-222222?style=for-the-badge&logo=Django)
-![Django Rest Framework](https://img.shields.io/badge/DRF-222222?style=for-the-badge&logo=Django)
-![Tortoise ORM](https://img.shields.io/badge/-TortoiseORM-222222?style=for-the-badge&logo=Tortoise-ORM)
-![Celery](https://img.shields.io/badge/-Celery-222222?style=for-the-badge&logo=Celery)
-![Swagger](https://img.shields.io/static/v1?style=for-the-badge&message=Swagger&color=222222&logo=Swagger&logoColor=85EA2D&label=)
+![Python](https://img.shields.io/badge/-Python-181717?style=for-the-badge&logo=Python&bg_color=00000000)
+![FastAPI](https://img.shields.io/static/v1?style=for-the-badge&message=FastAPI&color=181717&logo=FastAPI&logoColor=FFFFFF&label=)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-181717?style=for-the-badge&logo=SQLAlchemy)
+![Sanic](https://img.shields.io/badge/Sanic-181717?style=for-the-badge&logo=Sanic)
+![Django](https://img.shields.io/badge/-Django-181717?style=for-the-badge&logo=Django)
+![Django Rest Framework](https://img.shields.io/badge/DRF-181717?style=for-the-badge&logo=Django)
+![Tortoise ORM](https://img.shields.io/badge/-TortoiseORM-181717?style=for-the-badge&logo=Tortoise-ORM)
+![Celery](https://img.shields.io/badge/-Celery-181717?style=for-the-badge&logo=Celery)
+![Swagger](https://img.shields.io/static/v1?style=for-the-badge&message=Swagger&color=181717&logo=Swagger&logoColor=85EA2D&label=)
 
 
 **Databases**
 
-![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=for-the-badge&logo=Postgresql)
-![Redis](https://img.shields.io/badge/-Redis-FCA121?style=for-the-badge&logo=Redis)
+![Postgresql](https://img.shields.io/badge/-Postgresql-%181717?style=for-the-badge&logo=Postgresql)
+![Redis](https://img.shields.io/badge/-Redis-181717?style=for-the-badge&logo=Redis)
 
 **Front-end**
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-%181717?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%181717?style=for-the-badge&logo=css3)
 
 **Tools**
 
-![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-222222?style=for-the-badge&logo=jetbrains)
+![Docker](https://img.shields.io/badge/-Docker-181717?style=for-the-badge&logo=docker&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-181717?style=for-the-badge&logo=jetbrains)
 ![Postman](https://img.shields.io/badge/Postman-181717?style=for-the-badge&logo=postman)
 
 ![Linux](https://img.shields.io/badge/Linux-181717?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
 **Learning**
 
-![Go](https://img.shields.io/static/v1?style=for-the-badge&message=Go&color=00ADD8&logo=Go&logoColor=FFFFFF&label=)
+![Go](https://img.shields.io/static/v1?style=for-the-badge&message=Go&color=181717&logo=Go&logoColor=FFFFFF&label=)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%181717?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23F7DF1C&bg_color=00000000)
 
 ## 𝗦𝘁𝗮𝘁𝘀
