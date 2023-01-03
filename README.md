@@ -33,8 +33,8 @@
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-ffce5a?style=for-the-badge&logo=jetbrains)
 ![Postman](https://img.shields.io/badge/Postman-FCA121?style=for-the-badge&logo=postman)
 
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-181717?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
 **Learning**
