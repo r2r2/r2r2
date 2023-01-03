@@ -17,6 +17,7 @@
 ![Swagger](https://img.shields.io/static/v1?style=for-the-badge&message=Swagger&color=181717&logo=Swagger&logoColor=85EA2D&label=)
 
 ![Go](https://img.shields.io/static/v1?style=for-the-badge&message=Go&color=181717&logo=Go&logoColor=FFFFFF&label=)
+![SQL](https://img.shields.io/badge/-SQL-181717?style=for-the-badge)
 
 
 **Databases**
