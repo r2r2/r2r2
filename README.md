@@ -45,6 +45,9 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=JavaScript)
 
+### Follow me
+[![Telegram](https://img.shields.io/badge/Telegram-181717?style=for-the-badge&logo=Telegram)](https://t.me/dmitry_sdr)
+
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![r2r2 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r2r2&layout=compact&count_private=true&theme=gruvbox&hide=JavaScript,HTML,CSS&bg_color=00000000)
