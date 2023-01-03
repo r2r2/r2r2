@@ -19,7 +19,7 @@
 
 **Databases**
 
-![Postgresql](https://img.shields.io/badge/-Postgresql-%181717?style=for-the-badge&logo=Postgresql)
+![Postgresql](https://img.shields.io/badge/-Postgresql-181717?style=for-the-badge&logo=Postgresql)
 ![Redis](https://img.shields.io/badge/-Redis-181717?style=for-the-badge&logo=Redis)
 
 **Front-end**
