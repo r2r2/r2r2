@@ -47,6 +47,7 @@
 
 ### Follow me
 [![Telegram](https://img.shields.io/badge/Telegram-181717?style=for-the-badge&logo=Telegram)](https://t.me/dmitry_sdr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/borislav-izmestiev-8b3a60210/)
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
