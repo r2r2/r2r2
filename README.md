@@ -6,7 +6,7 @@
 
 **Back-end**
 
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
+![Python](https://img.shields.io/badge/-Python-85EA2D?style=for-the-badge&logo=Python)
 ![FastAPI](https://img.shields.io/static/v1?style=for-the-badge&message=FastAPI&color=009688&logo=FastAPI&logoColor=FFFFFF&label=)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-red?style=for-the-badge&logo=SQLAlchemy)
 ![Sanic](https://img.shields.io/badge/Sanic-red?style=for-the-badge&logo=Sanic)
@@ -45,7 +45,7 @@
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![r2r2 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r2r2&layout=compact&count_private=true&theme=gruvbox&hide=JavaScript,HTML,CSS&bg_color=00000000)
-![r2r2 GitHub stats](https://github-readme-stats.vercel.app/api?username=r2r2&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide=issues&bg_color=00000000)
+![r2r2 GitHub stats](https://github-readme-stats.vercel.app/api?username=r2r2&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide=issues,contribes&bg_color=00000000)
 
 
 
