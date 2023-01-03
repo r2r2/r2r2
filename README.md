@@ -24,8 +24,8 @@
 
 **Front-end**
 
-![HTML5](https://img.shields.io/badge/-HTML5-%181717?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%181717?style=for-the-badge&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-181717?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-181717?style=for-the-badge&logo=css3)
 
 **Tools**
 
@@ -40,7 +40,7 @@
 **Learning**
 
 ![Go](https://img.shields.io/static/v1?style=for-the-badge&message=Go&color=181717&logo=Go&logoColor=FFFFFF&label=)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%181717?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23F7DF1C&bg_color=00000000)
+![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23F7DF1C&bg_color=00000000)
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
