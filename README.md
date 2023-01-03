@@ -7,13 +7,13 @@
 **Back-end**
 
 ![Python](https://img.shields.io/badge/-Python-222222?style=for-the-badge&logo=Python&bg_color=00000000)
-![FastAPI](https://img.shields.io/static/v1?style=for-the-badge&message=FastAPI&color=009688&logo=FastAPI&logoColor=FFFFFF&label=)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-red?style=for-the-badge&logo=SQLAlchemy)
-![Sanic](https://img.shields.io/badge/Sanic-red?style=for-the-badge&logo=Sanic)
-![Django](https://img.shields.io/badge/-Django-0aad48?style=for-the-badge&logo=Django)
-![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=for-the-badge&logo=Django)
-![Tortoise ORM](https://img.shields.io/badge/-TortoiseORM-green?style=for-the-badge&logo=Tortoise-ORM)
-![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=for-the-badge&logo=Celery)
+![FastAPI](https://img.shields.io/static/v1?style=for-the-badge&message=FastAPI&color=222222&logo=FastAPI&logoColor=FFFFFF&label=)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-222222?style=for-the-badge&logo=SQLAlchemy)
+![Sanic](https://img.shields.io/badge/Sanic-222222?style=for-the-badge&logo=Sanic)
+![Django](https://img.shields.io/badge/-Django-222222?style=for-the-badge&logo=Django)
+![Django Rest Framework](https://img.shields.io/badge/DRF-222222?style=for-the-badge&logo=Django)
+![Tortoise ORM](https://img.shields.io/badge/-TortoiseORM-222222?style=for-the-badge&logo=Tortoise-ORM)
+![Celery](https://img.shields.io/badge/-Celery-222222?style=for-the-badge&logo=Celery)
 ![Swagger](https://img.shields.io/static/v1?style=for-the-badge&message=Swagger&color=222222&logo=Swagger&logoColor=85EA2D&label=)
 
 
