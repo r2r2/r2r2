@@ -6,7 +6,7 @@
 
 **Back-end**
 
-![Python](https://img.shields.io/badge/-Python-222222?style=for-the-badge&logo=Python&bg_color=00000000)
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python&bg_color=00000000)
 ![FastAPI](https://img.shields.io/static/v1?style=for-the-badge&message=FastAPI&color=222222&logo=FastAPI&logoColor=FFFFFF&label=)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-222222?style=for-the-badge&logo=SQLAlchemy)
 ![Sanic](https://img.shields.io/badge/Sanic-222222?style=for-the-badge&logo=Sanic)
@@ -35,7 +35,7 @@
 
 ![Linux](https://img.shields.io/badge/Linux-181717?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github)
 
 **Learning**
 
