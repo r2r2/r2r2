@@ -6,7 +6,7 @@
 
 **Back-end**
 
-![Python](https://img.shields.io/badge/-Python-00000000?style=for-the-badge&logo=Python&bg_color=00000000)
+![Python](https://img.shields.io/badge/-Python-222222?style=for-the-badge&logo=Python&bg_color=00000000)
 ![FastAPI](https://img.shields.io/static/v1?style=for-the-badge&message=FastAPI&color=009688&logo=FastAPI&logoColor=FFFFFF&label=)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-red?style=for-the-badge&logo=SQLAlchemy)
 ![Sanic](https://img.shields.io/badge/Sanic-red?style=for-the-badge&logo=Sanic)
