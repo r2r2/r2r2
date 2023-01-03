@@ -40,7 +40,7 @@
 **Learning**
 
 ![Go](https://img.shields.io/static/v1?style=for-the-badge&message=Go&color=00ADD8&logo=Go&logoColor=FFFFFF&label=)
-![JavaScript](https://img.shields.io/badge/-JavaScript-transparent?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%00000000)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%FFFFFF?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23F7DF1C)
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
