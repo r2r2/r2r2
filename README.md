@@ -52,4 +52,4 @@
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![r2r2 Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r2r2&layout=compact&count_private=true&theme=gruvbox&hide=JavaScript,HTML,CSS&bg_color=00000000)
-![r2r2 GitHub stats](https://github-readme-stats.vercel.app/api?username=r2r2&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide=issues,contribs&bg_color=00000000)
+![r2r2 GitHub stats](https://github-readme-stats.vercel.app/api?username=r2r2&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide=issues,contribes&bg_color=00000000)
