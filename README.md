@@ -6,23 +6,15 @@
 
 **Back-end**
 
-![Python](https://img.shields.io/badge/-Python-181717?style=for-the-badge&logo=Python&bg_color=00000000)
-![FastAPI](https://img.shields.io/static/v1?style=for-the-badge&message=FastAPI&color=181717&logo=FastAPI&logoColor=FFFFFF&label=)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-181717?style=for-the-badge&logo=SQLAlchemy)
-![Sanic](https://img.shields.io/badge/Sanic-181717?style=for-the-badge&logo=Sanic)
-![Django](https://img.shields.io/badge/-Django-181717?style=for-the-badge&logo=Django)
-![Django Rest Framework](https://img.shields.io/badge/DRF-181717?style=for-the-badge&logo=Django)
-![Tortoise ORM](https://img.shields.io/badge/-TortoiseORM-181717?style=for-the-badge&logo=Tortoise-ORM)
-![Celery](https://img.shields.io/badge/-Celery-181717?style=for-the-badge&logo=Celery)
-![Swagger](https://img.shields.io/static/v1?style=for-the-badge&message=Swagger&color=181717&logo=Swagger&logoColor=85EA2D&label=)
-
 ![Go](https://img.shields.io/static/v1?style=for-the-badge&message=Go&color=181717&logo=Go&logoColor=FFFFFF&label=)
+![Python](https://img.shields.io/badge/-Python-181717?style=for-the-badge&logo=Python&bg_color=00000000)
+![Swagger](https://img.shields.io/static/v1?style=for-the-badge&message=Swagger&color=181717&logo=Swagger&logoColor=85EA2D&label=)
 ![SQL](https://img.shields.io/badge/-SQL-181717?style=for-the-badge)
 
 
 **Databases**
-
 ![Postgresql](https://img.shields.io/badge/-Postgresql-181717?style=for-the-badge&logo=Postgresql)
+![MongoDB](https://img.shields.io/badge/-Mongodb-181717?style=for-the-badge&logo=MongoDB)
 ![Redis](https://img.shields.io/badge/-Redis-181717?style=for-the-badge&logo=Redis)
 
 **Front-end**
